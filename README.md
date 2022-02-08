@@ -1,4 +1,4 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# hola mundo
+Mi primer repositorio de pruebaa
 Autor: Daniela Zea
 Fecha 08 Feb 22
